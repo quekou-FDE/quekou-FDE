@@ -8,3 +8,5 @@
 让企业拥有持续造桥的能力。
 
 项目与开发协作请前往 [缺口开发组织](https://github.com/quekou-fde-development)。
+
+专项研发与通用场景解决方案请前往 [缺口专项研发组织](https://github.com/quekou-fde-research)。
